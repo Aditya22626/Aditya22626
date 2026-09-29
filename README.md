@@ -6,7 +6,7 @@
 
 # `ADITYA KAUSHIK`
 
-### AI • Full-Stack • Cloud • Open Source
+### AI • Full-Stack • Cloud • Machine Learning • Deep Learning
 
 <a href="https://github.com/Aditya22626"><img src="https://img.shields.io/badge/GitHub-0b0b0b?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
 <a href="https://www.linkedin.com/in/aditya-kaushik-b4b00b338/"><img src="https://img.shields.io/badge/LinkedIn-30302d?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
