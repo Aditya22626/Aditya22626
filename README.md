@@ -35,22 +35,22 @@
 
 </div>
 
+<!----->
+
+<!-- ## `06 / CONTRIBUTION BOARD`-->
+
+<!-- <div align="center"> -->
+
+<!-- <a href="https://github.com/Aditya22626"> -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya22626&bg_color=0b0b0b&color=f4f3ee&line=d7d4c8&point=f4f3ee&area=true&hide_border=true&custom_title=Aditya%20Kaushik%20%E2%80%94%20Contribution%20Graph" alt="GitHub activity graph" /> -->
+<!-- </a> -->
+
+<!-- </div> -->
+
+
 ---
 
-## `06 / CONTRIBUTION BOARD`
-
-<div align="center">
-
-<a href="https://github.com/Aditya22626">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya22626&bg_color=0b0b0b&color=f4f3ee&line=d7d4c8&point=f4f3ee&area=true&hide_border=true&custom_title=Aditya%20Kaushik%20%E2%80%94%20Contribution%20Graph" alt="GitHub activity graph" />
-</a>
-
-</div>
-
-
----
-
-## `01 / WHOAMI`
+## `01 / WHO AM I`
 
 > **Computer Science student focused on AI, GenAI, full-stack engineering and cloud.**
 >
